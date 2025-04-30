@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- Data Analyst | Python Enthusiast | Lifelong Learner -->
 <!-- --------------------------------------------------- -->
 
-👋 Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. <br>
-👋 Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
-👋 --please add more info with your personal infromation -- <br>
+ Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. <br>
+ Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
+ --please add more info with your personal infromation -- <br>
 
 ## About Me 🎓 
 
-I hold a degree in Civil Engineering but am now focused on data analytics. 
+👋 I hold a degree in Civil Engineering but am now focused on data analytics. 
 
 <!-- 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). -->
 <!-- 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. -->
