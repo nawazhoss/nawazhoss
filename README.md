@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- --------------------------------------------------- -->
 
 👋 Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. <br>
-🔹 Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
-🔹 --please add more info with your personal infromation -- <br>
+👋 Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
+👋 --please add more info with your personal infromation -- <br>
 
 ## About Me 🎓 
 
