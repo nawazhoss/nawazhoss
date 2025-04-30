@@ -10,7 +10,7 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ## About Me 🎓 
 
 
-I hold a degree in Civil Engineering but now have a focus on data analytics. 
+I hold a degree in Civil Engineering but am now focused on data analytics. 
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
