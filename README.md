@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawaz
+.0Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawaz
 ===========================================================================================================================
 
 <!-- Data Analyst | Python Enthusiast | Lifelong Learner -->
 <!-- --------------------------------------------------- -->
 
-
-👋 Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. 
-Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
---please add more info with your personal infromation --
-<!-- to I’m Nawaz, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation -->
+👋 Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. <br>
+Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
+--please add more info with your personal infromation -- <br>
 
 ## About Me 🎓 
 
