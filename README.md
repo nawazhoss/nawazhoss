@@ -15,7 +15,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
 <table>
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="Excel" width="40" height="40"/><br>Excel</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL" width="40" height="40"/><br>SQL</td>
+    <td align="center"><img src="https://icons8.com/icon/3767/sql" alt="SQL" width="40" height="40"/><br>SQL</td>
     <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/><br>Tableau</td>
     <td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/><br>Power BI</td>
