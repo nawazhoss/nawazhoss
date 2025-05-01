@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Data Analytics Portfolio
 
 ## About Me
-Welcome to my data analytics portfolio! I'm a data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
+Welcome to my data analytics portfolio! I'm a newly qualified entry level data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com) -->
+<!-- [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com) -->
 
 ## ° Skills & Tools
 
