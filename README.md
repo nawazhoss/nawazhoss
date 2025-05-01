@@ -24,11 +24,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
 ### PowerBI
 - **Project Name**: [Bike Sales Data Analysis Project](https://app.powerbi.com/view?r=eyJrIjoiYTA3YTRjMzMtNDFmMy00MjRlLTk0ZDAtNTdlNTM5ZWIwZGIzIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
   - **Description**: This analysis explores bike sales data to identify trends in revenue generation, geographic distribution, and product preferences.
