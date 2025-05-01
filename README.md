@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-## ðŸ§° Skills & Tools
+## ° Skills & Tools
 
 <table>
   <tr>
@@ -22,7 +22,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
   </tr>
 </table>
 
-## ðŸ“Š Projects
+## ° Projects
 
 ### Excel Projects
 
@@ -123,13 +123,11 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## ðŸ“š Certificates & Education
+## ° Certificates & Education
 
-- **[Data Science Professional Certificate]** - Institution Name (Year)
-- **[SQL Advanced Certification]** - Institution Name (Year)
-- **[Business Intelligence Specialization]** - Institution Name (Year)
+- **[to be added]** - Institution Name (Year)
 
-## ðŸ“ž Contact Me
+## ° Contact Me
 
 I'm open to freelance projects, collaboration, and job opportunities. Feel free to reach out!
 
