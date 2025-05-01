@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Data Analytics Portfolio
 
 ## About Me
-Welcome to my data analytics portfolio! I'm a newly qualified entry level data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
+Welcome to my data analytics portfolio! I'm a data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com) -->
-<!-- [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/){:target="_blank" rel="noopener"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com){:target="_blank" rel="noopener"}
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-## ° Skills & Tools
+## ðŸ§° Skills & Tools
 
 <table>
   <tr>
@@ -22,20 +22,22 @@ Welcome to my data analytics portfolio! I'm a newly qualified entry level data p
   </tr>
 </table>
 
-## ° Projects
+## ðŸ“Š Projects
 
 ### Excel Projects
 
 #### Sales Performance Dashboard
 - **Description:** Comprehensive sales dashboard with dynamic filtering and forecasting capabilities
 - **Skills:** Advanced Excel formulas, PivotTables, Data Modeling, Conditional Formatting, Charts
-- **Link:** [View Project](link-to-project)
-- ![Project Screenshot](/api/placeholder/400/200)
+- **Link:** <a href="link-to-project" target="_blank" rel="noopener">View Project</a>
+- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
+  <img src="/api/placeholder/400/200" alt="Project Screenshot" width="400"/>
+</a>
 
 #### Financial Analysis Model
 - **Description:** End-to-end financial model for budget planning and scenario analysis
 - **Skills:** Financial Modeling, Data Tables, Scenario Manager, VLOOKUP/INDEX-MATCH, Named Ranges
-- **Link:** [View Project](link-to-project)
+- **Link:** <a href="link-to-project" target="_blank" rel="noopener">View Project</a>
 
 ---
 
@@ -44,7 +46,7 @@ Welcome to my data analytics portfolio! I'm a newly qualified entry level data p
 #### Customer Segmentation Analysis
 - **Description:** Analyzed customer purchase patterns to create targeted marketing segments
 - **Skills:** Complex Joins, Window Functions, CTEs, Subqueries, Data Aggregation
-- **Code:** [View SQL Scripts](link-to-code)
+- **Code:** <a href="link-to-code" target="_blank" rel="noopener">View SQL Scripts</a>
 ```sql
 SELECT 
     customer_segment,
@@ -59,7 +61,7 @@ ORDER BY avg_spend DESC;
 #### Database Design & Optimization
 - **Description:** Designed normalized database schema for e-commerce platform and optimized query performance
 - **Skills:** Database Schema Design, Indexing, Query Optimization, Stored Procedures
-- **Link:** [View Project](link-to-project)
+- **Link:** <a href="link-to-project" target="_blank" rel="noopener">View Project</a>
 
 ---
 
@@ -68,13 +70,15 @@ ORDER BY avg_spend DESC;
 #### Regional Sales Performance
 - **Description:** Interactive visualization of sales performance across regions with drill-down capabilities
 - **Skills:** Calculated Fields, Parameters, Dashboard Actions, Filters, Maps
-- **Dashboard:** [View in Tableau Public](link-to-dashboard)
-- ![Dashboard Screenshot](/api/placeholder/400/200)
+- **Dashboard:** <a href="link-to-dashboard" target="_blank" rel="noopener">View in Tableau Public</a>
+- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
+  <img src="/api/placeholder/400/200" alt="Dashboard Screenshot" width="400"/>
+</a>
 
 #### HR Analytics Dashboard
 - **Description:** Employee retention analysis with predictive indicators for turnover risk
 - **Skills:** Data Blending, LOD Expressions, Trend Analysis, Custom Calculations
-- **Dashboard:** [View in Tableau Public](link-to-dashboard)
+- **Dashboard:** <a href="link-to-dashboard" target="_blank" rel="noopener">View in Tableau Public</a>
 
 ---
 
@@ -83,13 +87,15 @@ ORDER BY avg_spend DESC;
 #### Supply Chain Analytics
 - **Description:** End-to-end supply chain visualization with inventory metrics and shipping analysis
 - **Skills:** DAX Formulas, M Query, Custom Visuals, Drill-Through Pages, Bookmarks
-- **Report:** [View Report](https://app.powerbi.com/view?r=eyJrIjoiYTA3YTRjMzMtNDFmMy00MjRlLTk0ZDAtNTdlNTM5ZWIwZGIzIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
-- ![Report Screenshot](https://app.powerbi.com/groups/727fed03-7a79-46a4-a663-242647c7eba2/reports/70c4d245-0cd6-4f38-ac82-9aded69a0f75/deebc502f0f632296fea?experience=power-bi)
+- **Report:** <a href="link-to-report" target="_blank" rel="noopener">View Report</a>
+- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
+  <img src="/api/placeholder/400/200" alt="Report Screenshot" width="400"/>
+</a>
 
 #### Executive KPI Dashboard
 - **Description:** C-level dashboard showing key business metrics with mobile-responsive design
 - **Skills:** Time Intelligence, Advanced DAX, Role-level Security, Custom Tooltips
-- **Report:** [View Report](link-to-report)
+- **Report:** <a href="link-to-report" target="_blank" rel="noopener">View Report</a>
 
 ---
 
@@ -98,7 +104,7 @@ ORDER BY avg_spend DESC;
 #### Customer Churn Prediction
 - **Description:** Machine learning model to predict customer churn with 87% accuracy
 - **Skills:** scikit-learn, pandas, matplotlib, Feature Engineering, Model Evaluation
-- **Repository:** [View Code](link-to-repo)
+- **Repository:** <a href="link-to-repo" target="_blank" rel="noopener">View Code</a>
 ```python
 # Sample code snippet
 import pandas as pd
@@ -119,21 +125,23 @@ print(classification_report(y_test, predictions))
 #### Automated Data Pipeline
 - **Description:** ETL pipeline for processing daily sales data from multiple sources
 - **Skills:** pandas, SQLAlchemy, Airflow, API Integration, Error Handling
-- **Repository:** [View Code](link-to-repo)
+- **Repository:** <a href="link-to-repo" target="_blank" rel="noopener">View Code</a>
 
 ---
 
-## ° Certificates & Education
+## ðŸ“š Certificates & Education
 
-- **[to be added]** - Institution Name (Year)
+- **[Data Science Professional Certificate]** - Institution Name (Year)
+- **[SQL Advanced Certification]** - Institution Name (Year)
+- **[Business Intelligence Specialization]** - Institution Name (Year)
 
-## ° Contact Me
+## ðŸ“ž Contact Me
 
 I'm open to freelance projects, collaboration, and job opportunities. Feel free to reach out!
 
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourusername/)
-- **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener">Your Name</a>
+- **Portfolio Website:** <a href="https://yourportfolio.com" target="_blank" rel="noopener">yourportfolio.com</a>
 
 ---
 
