@@ -10,19 +10,19 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com){:target="_blank" rel="noopener"}
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-## ° Skills & Tools
+## ðŸ§° Skills & Tools
 
 <table>
   <tr>
-    <td align="center"><img src="/api/placeholder/40/40" alt="Excel" width="40" height="40"/><br>Excel</td>
-    <td align="center"><img src="/api/placeholder/40/40" alt="SQL" width="40" height="40"/><br>SQL</td>
-    <td align="center"><img src="/api/placeholder/40/40" alt="Python" width="40" height="40"/><br>Python</td>
-    <td align="center"><img src="/api/placeholder/40/40" alt="Tableau" width="40" height="40"/><br>Tableau</td>
-    <td align="center"><img src="/api/placeholder/40/40" alt="Power BI" width="40" height="40"/><br>Power BI</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" height="40"/><br>Excel</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL" width="40" height="40"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/><br>Tableau</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/><br>Power BI</td>
   </tr>
 </table>
 
-## ° Projects
+## ðŸ“Š Projects
 
 ### Excel Projects
 
@@ -123,13 +123,13 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## ° Certificates & Education
+## ðŸ“š Certificates & Education
 
 - **[Data Science Professional Certificate]** - Institution Name (Year)
 - **[SQL Advanced Certification]** - Institution Name (Year)
 - **[Business Intelligence Specialization]** - Institution Name (Year)
 
-## ° Contact Me
+## ðŸ“ž Contact Me
 
 I'm open to freelance projects, collaboration, and job opportunities. Feel free to reach out!
 
