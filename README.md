@@ -1,99 +1,142 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawaz
 ===========================================================================================================================
 
-<!-- Data Analyst | Python Enthusiast | Lifelong Learner -->
-<!-- --------------------------------------------------- -->
+# Data Analytics Portfolio
 
- Hello! Welcome to my portfolio showcasing Tableau, Power BI, and Excel projects. <br>
- Feel free to explore my projects and reach out if you have any questions or collaboration ideas! <br>
- --please add more info with your personal infromation -- <br>
+## About Me
+Welcome to my data analytics portfolio! I'm a data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
 
-## About Me 🎓 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-👋 I hold a degree in Civil Engineering but am now focused on data analytics. 
+## ðŸ§° Skills & Tools
 
-<!-- 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). -->
-<!-- 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. -->
-<!-- 🌐 Curious about web scraping and API integration. -->
+<table>
+  <tr>
+    <td align="center"><img src="/api/placeholder/40/40" alt="Excel" width="40" height="40"/><br>Excel</td>
+    <td align="center"><img src="/api/placeholder/40/40" alt="SQL" width="40" height="40"/><br>SQL</td>
+    <td align="center"><img src="/api/placeholder/40/40" alt="Python" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="/api/placeholder/40/40" alt="Tableau" width="40" height="40"/><br>Tableau</td>
+    <td align="center"><img src="/api/placeholder/40/40" alt="Power BI" width="40" height="40"/><br>Power BI</td>
+  </tr>
+</table>
 
-## Projects
+## ðŸ“Š Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+### Excel Projects
 
+#### Sales Performance Dashboard
+- **Description:** Comprehensive sales dashboard with dynamic filtering and forecasting capabilities
+- **Skills:** Advanced Excel formulas, PivotTables, Data Modeling, Conditional Formatting, Charts
+- **Link:** [View Project](link-to-project)
+- ![Project Screenshot](/api/placeholder/400/200)
 
-### PowerBI
-- **Project Name**: [Bike Sales Data Analysis Project](https://app.powerbi.com/view?r=eyJrIjoiYTA3YTRjMzMtNDFmMy00MjRlLTk0ZDAtNTdlNTM5ZWIwZGIzIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
-  - **Description**: This analysis explores bike sales data to identify trends in revenue generation, geographic distribution, and product preferences.
-  - **Technologies Used**: The data is sourced from the web and imported into PowerBI and a dashboard prepared to show insights obtained via a selction of visualizations.
+#### Financial Analysis Model
+- **Description:** End-to-end financial model for budget planning and scenario analysis
+- **Skills:** Financial Modeling, Data Tables, Scenario Manager, VLOOKUP/INDEX-MATCH, Named Ranges
+- **Link:** [View Project](link-to-project)
 
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+---
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+### SQL Projects
 
-### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+#### Customer Segmentation Analysis
+- **Description:** Analyzed customer purchase patterns to create targeted marketing segments
+- **Skills:** Complex Joins, Window Functions, CTEs, Subqueries, Data Aggregation
+- **Code:** [View SQL Scripts](link-to-code)
+```sql
+SELECT 
+    customer_segment,
+    COUNT(DISTINCT customer_id) AS customer_count,
+    ROUND(AVG(total_spend), 2) AS avg_spend,
+    ROUND(SUM(total_spend) / SUM(SUM(total_spend)) OVER() * 100, 2) AS pct_revenue
+FROM customer_segments
+GROUP BY customer_segment
+ORDER BY avg_spend DESC;
+```
 
-### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+#### Database Design & Optimization
+- **Description:** Designed normalized database schema for e-commerce platform and optimized query performance
+- **Skills:** Database Schema Design, Indexing, Query Optimization, Stored Procedures
+- **Link:** [View Project](link-to-project)
 
-### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
+---
 
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+### Tableau Projects
 
+#### Regional Sales Performance
+- **Description:** Interactive visualization of sales performance across regions with drill-down capabilities
+- **Skills:** Calculated Fields, Parameters, Dashboard Actions, Filters, Maps
+- **Dashboard:** [View in Tableau Public](link-to-dashboard)
+- ![Dashboard Screenshot](/api/placeholder/400/200)
 
+#### HR Analytics Dashboard
+- **Description:** Employee retention analysis with predictive indicators for turnover risk
+- **Skills:** Data Blending, LOD Expressions, Trend Analysis, Custom Calculations
+- **Dashboard:** [View in Tableau Public](link-to-dashboard)
 
+---
 
+### Power BI Projects
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+#### Supply Chain Analytics
+- **Description:** End-to-end supply chain visualization with inventory metrics and shipping analysis
+- **Skills:** DAX Formulas, M Query, Custom Visuals, Drill-Through Pages, Bookmarks
+- **Report:** [View Report](link-to-report)
+- ![Report Screenshot](/api/placeholder/400/200)
 
-### Skills
+#### Executive KPI Dashboard
+- **Description:** C-level dashboard showing key business metrics with mobile-responsive design
+- **Skills:** Time Intelligence, Advanced DAX, Role-level Security, Custom Tooltips
+- **Report:** [View Report](link-to-report)
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
-   <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer; return false;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="72" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
+### Python Projects
 
-</p>
+#### Customer Churn Prediction
+- **Description:** Machine learning model to predict customer churn with 87% accuracy
+- **Skills:** scikit-learn, pandas, matplotlib, Feature Engineering, Model Evaluation
+- **Repository:** [View Code](link-to-repo)
+```python
+# Sample code snippet
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+# Model training
+model = RandomForestClassifier(n_estimators=100)
+model.fit(X_train, y_train)
 
-### Socials
+# Evaluate performance
+predictions = model.predict(X_test)
+print(classification_report(y_test, predictions))
+```
 
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+#### Automated Data Pipeline
+- **Description:** ETL pipeline for processing daily sales data from multiple sources
+- **Skills:** pandas, SQLAlchemy, Airflow, API Integration, Error Handling
+- **Repository:** [View Code](link-to-repo)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## ðŸ“š Certificates & Education
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+- **[Data Science Professional Certificate]** - Institution Name (Year)
+- **[SQL Advanced Certification]** - Institution Name (Year)
+- **[Business Intelligence Specialization]** - Institution Name (Year)
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## ðŸ“ž Contact Me
 
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali06112023&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
+I'm open to freelance projects, collaboration, and job opportunities. Feel free to reach out!
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourusername/)
+- **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
+
+---
 
 
