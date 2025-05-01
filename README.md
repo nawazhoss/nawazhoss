@@ -83,8 +83,8 @@ ORDER BY avg_spend DESC;
 #### Supply Chain Analytics
 - **Description:** End-to-end supply chain visualization with inventory metrics and shipping analysis
 - **Skills:** DAX Formulas, M Query, Custom Visuals, Drill-Through Pages, Bookmarks
-- **Report:** [View Report](link-to-report)
-- ![Report Screenshot](/api/placeholder/400/200)
+- **Report:** [View Report](https://app.powerbi.com/view?r=eyJrIjoiYTA3YTRjMzMtNDFmMy00MjRlLTk0ZDAtNTdlNTM5ZWIwZGIzIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
+- ![Report Screenshot](https://app.powerbi.com/groups/727fed03-7a79-46a4-a663-242647c7eba2/reports/70c4d245-0cd6-4f38-ac82-9aded69a0f75/deebc502f0f632296fea?experience=power-bi)
 
 #### Executive KPI Dashboard
 - **Description:** C-level dashboard showing key business metrics with mobile-responsive design
