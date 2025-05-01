@@ -7,8 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome to my data analytics portfolio! I'm a data professional with expertise in Excel, SQL, Python, Tableau, and Power BI. This repository showcases my projects demonstrating skills in data manipulation, analysis, visualization, and business intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nawaz-hossain-276b4a68/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com) -->
+[![Email](https://img.shields.io/badge/Email-Contact-red)](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3A%3Fsubject%3DCheck%20this%20out%20%E2%80%93%20LinkedIn%253A%2520Log%2520In%2520or%2520Sign%2520Up%26body%3DLinkedIn%253A%2520Log%2520In%2520or%2520Sign%2520Up%250Ahttps%253A%252F%252Fwww.linkedin.com%252Fhome)
 
 ## ðŸ§° Skills & Tools
 
