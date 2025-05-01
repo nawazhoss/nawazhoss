@@ -31,8 +31,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### PowerBI
 - **Project Name**: [Bike Sales Data Analysis Project](https://app.powerbi.com/view?r=eyJrIjoiYTA3YTRjMzMtNDFmMy00MjRlLTk0ZDAtNTdlNTM5ZWIwZGIzIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+  - **Description**: This analysis explores bike sales data to identify trends in revenue generation, geographic distribution, and product preferences.
+  - **Technologies Used**: The data is sourced from the web and imported into PowerBI and a dashboard prepared to show insights obtained via a selction of visualizations.
 
 ### Tableau
 - **Project Name**: [Project Title](link-to-project)
