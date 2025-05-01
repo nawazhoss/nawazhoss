@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com){:target="_blank" rel="noopener"}
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
-## ðŸ§° Skills & Tools
+## ° Skills & Tools
 
 <table>
   <tr>
@@ -22,7 +22,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
   </tr>
 </table>
 
-## ðŸ“Š Projects
+## ° Projects
 
 ### Excel Projects
 
@@ -30,9 +30,7 @@ Welcome to my data analytics portfolio! I'm a data professional with expertise i
 - **Description:** Comprehensive sales dashboard with dynamic filtering and forecasting capabilities
 - **Skills:** Advanced Excel formulas, PivotTables, Data Modeling, Conditional Formatting, Charts
 - **Link:** <a href="link-to-project" target="_blank" rel="noopener">View Project</a>
-- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
-  <img src="/api/placeholder/400/200" alt="Project Screenshot" width="400"/>
-</a>
+- ![Project Screenshot](/api/placeholder/400/200)
 
 #### Financial Analysis Model
 - **Description:** End-to-end financial model for budget planning and scenario analysis
@@ -71,9 +69,7 @@ ORDER BY avg_spend DESC;
 - **Description:** Interactive visualization of sales performance across regions with drill-down capabilities
 - **Skills:** Calculated Fields, Parameters, Dashboard Actions, Filters, Maps
 - **Dashboard:** <a href="link-to-dashboard" target="_blank" rel="noopener">View in Tableau Public</a>
-- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
-  <img src="/api/placeholder/400/200" alt="Dashboard Screenshot" width="400"/>
-</a>
+- ![Dashboard Screenshot](/api/placeholder/400/200)
 
 #### HR Analytics Dashboard
 - **Description:** Employee retention analysis with predictive indicators for turnover risk
@@ -88,9 +84,7 @@ ORDER BY avg_spend DESC;
 - **Description:** End-to-end supply chain visualization with inventory metrics and shipping analysis
 - **Skills:** DAX Formulas, M Query, Custom Visuals, Drill-Through Pages, Bookmarks
 - **Report:** <a href="link-to-report" target="_blank" rel="noopener">View Report</a>
-- <a href="/api/placeholder/400/200" target="_blank" rel="noopener">
-  <img src="/api/placeholder/400/200" alt="Report Screenshot" width="400"/>
-</a>
+- ![Report Screenshot](/api/placeholder/400/200)
 
 #### Executive KPI Dashboard
 - **Description:** C-level dashboard showing key business metrics with mobile-responsive design
@@ -129,13 +123,13 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## ðŸ“š Certificates & Education
+## ° Certificates & Education
 
 - **[Data Science Professional Certificate]** - Institution Name (Year)
 - **[SQL Advanced Certification]** - Institution Name (Year)
 - **[Business Intelligence Specialization]** - Institution Name (Year)
 
-## ðŸ“ž Contact Me
+## ° Contact Me
 
 I'm open to freelance projects, collaboration, and job opportunities. Feel free to reach out!
 
